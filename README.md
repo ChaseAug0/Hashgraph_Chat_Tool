@@ -1,6 +1,5 @@
-### README 文档
+### README
 
-````markdown
 # Hashgraph Consensus Algorithm Implementation
 
 This project is an implementation of the Hashgraph consensus algorithm using Golang. The project includes both the server-side and client-side implementations to manage and maintain a Hashgraph network.
@@ -19,11 +18,11 @@ This project is an implementation of the Hashgraph consensus algorithm using Gol
 ## Installation
 
 1. **Clone the repository**:
+
    ```sh
    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
    cd YOUR_REPOSITORY
    ```
-````
 
 2. **Install dependencies**:
    Ensure you have the required Go modules:
